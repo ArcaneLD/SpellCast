@@ -1,0 +1,21 @@
+To-Do List to myself for the Project :
+
+Visuals :
+- Improve beam texture
+- Make one or two other magic circles for bigger spells
+- Take a look at custom particles could be cool
+
+
+General :
+- Create SoundEffect System (possibly with custom sounds for some spells)
+- Add "The Beam Spell" with a violet color and a name like "Infinity Equation" or smth as a ref to JJK
+- Add More Spells, might tweet for some ideas
+- Open Source it. And keep the code clean unless you want to be laughed at (cruel world)
+
+Code Stuff :
+- Find another way to center the item display because it causes problems for the placables spells hitbox probably using tp instead of translation
+- Add "Scroll making system", involve elements cuz rn they're useless
+- Make the whole "CanHarmCaster" and "doesConsumeScroll" thing
+
+- Update the Ressource pack zipper plugin
+

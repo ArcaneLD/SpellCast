@@ -1,0 +1,9 @@
+name: Spellcast
+version: '${project.version}'
+main: fr.arcane.spellcast.Spellcast
+api-version: 1.20
+authors: [ Arcane ]
+description: Adds cool Mod-like magic stuff in minecraft vanilla
+commands:
+  givescroll:
+    description: gives you a scroll for the spell you name
