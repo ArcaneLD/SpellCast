@@ -57,7 +57,7 @@ public class Aerolithe {
         flyCircle.setTransformation(transformation);
 
         caster.setAllowFlight(true);
-
+        
 
         new BukkitRunnable() {
             @Override
