@@ -7,3 +7,6 @@ As a ressource pack zipper you can use your own like i plan to do (still in earl
 Rn it works in 1.20.X, and i wont make compatibility for older versions (its not that i dont want to, its just basically impossible or not optimized at all)
 
 im putting all the assets used in the ressource pack in the "assets" folder here if anyone wants them to use with the plugin
+
+
+Small demo from 3 versions behind the actual one : https://youtu.be/wgHHMqib0u4
